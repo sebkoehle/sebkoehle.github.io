@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://sebastiankoehler.eu/about/</loc>
+  </url><url>
+    <loc>https://sebastiankoehler.eu/contact/</loc>
+  </url><url>
+    <loc>https://sebastiankoehler.eu/cv/</loc>
+  </url><url>
+    <loc>https://sebastiankoehler.eu/research/</loc>
+  </url><url>
+    <loc>https://sebastiankoehler.eu/teaching/</loc>
+  </url><url>
+    <loc>https://sebastiankoehler.eu/categories/</loc>
+  </url><url>
+    <loc>https://sebastiankoehler.eu/</loc>
+  </url><url>
+    <loc>https://sebastiankoehler.eu/tags/</loc>
+  </url>
+</urlset>

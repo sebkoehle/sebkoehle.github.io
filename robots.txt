@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sebastiankoehler.eu/sitemap.xml
